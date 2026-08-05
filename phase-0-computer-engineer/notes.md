@@ -2,6 +2,8 @@
 
 > **Welcome!** This guide breaks down computing fundamentals step by step. By the end of this lesson, you will understand how computers work at a fundamental level and why this knowledge is crucial for your Android development journey.
 
+![Computer Fundamentals](./Computer%20Fundamentals.png)
+
 ---
 
 ## 🔢 Part 1: Understanding Bits and Bytes First
