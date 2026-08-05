@@ -135,4 +135,8 @@ Below is the visual roadmap mapping out the complete learning path from fundamen
 
 **Made with ❤️ for aspiring Android Engineers. Star ⭐ this repository to follow along the journey!**
 
+<br>
+
+<sub>🎨 *Note: The visual guide diagrams & infographic images in this repository were created with ChatGPT.*</sub>
+
 </div>
