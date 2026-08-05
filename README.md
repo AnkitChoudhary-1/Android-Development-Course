@@ -26,6 +26,19 @@ Unlike superficial tutorials that only cover basic app building, this course del
 
 ---
 
+## 💬 A Personal Note from the Author
+
+> [!NOTE]
+> **To every student from a Tier-3 college or non-IIT/NIT background:**
+> 
+> I know the exact feeling and pain of not getting into an **IIT** or **NIT**. When you are not from a premier institute, society often doubts your potential, and it's easy to feel left behind.
+> 
+> I am currently pursuing my **BCA from a Tier-3 government college**. But I realized early on that sticking strictly to the college syllabus will never be enough to achieve world-class engineering skills or crack companies like **MAANG**. That is why I push myself to do **exceptionally extra things** beyond the college curriculum every single day—diving deep into computer science fundamentals, low-level architecture, production-grade Android engineering, and system design.
+> 
+> This course is proof that **relentless effort, deep curiosity, and high-quality skills matter far more than your college tag**. If you are ready to break out of the ordinary and put in the work, this roadmap is for you! 🚀
+
+---
+
 ## 🎯 Why This Course? (The MAANG Benchmark)
 
 Top tech companies don't just test whether you can drag-and-drop buttons or make an API call. They evaluate:
