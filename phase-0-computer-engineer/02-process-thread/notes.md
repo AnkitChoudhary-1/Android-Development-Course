@@ -1,5 +1,7 @@
 # ⚡ Complete Guide to Processes and Threads for Android Developers
 
+![Process and Threads](./process%20and%20threads.png)
+
 ---
 
 ## 📌 Part 1: Program vs Process — What is the Difference?
