@@ -1,5 +1,7 @@
 # ⚡ Complete Guide to Main Thread and Background Thread in Android
 
+![Main Thread and Background Thread](./main%20thread%20and%20background%20thread.png)
+
 ---
 
 ## 📌 Part 1: What is the Main Thread?
