@@ -37,7 +37,7 @@ Whether you are starting from scratch or aiming for top-tier product companies (
 > 🔥 **I am putting my EVERYTHING into making this repository the BEST Android Development resource on the entire internet.** 
 > 
 > * 🛑 **Zero Extra Resources Needed:** If you complete this curriculum with 100% honesty, consistency, and dedication, **you will not need any other roadmaps, books, or paid courses**. You will be fully prepared to crack almost **every Android Developer interview** (including MAANG & top product companies).
-> * ⏳ **Realistic Timeframe:** This is a comprehensive, deep-dive mastery journey that will take approximately **1 to 1.5 years** of active dedicated study.
+> * ⏳ **Realistic Timeframe:** This is a comprehensive, deep-dive mastery journey that will take approximately **130 to 150 days** of active dedicated study.
 > * 📅 **Daily Dedication:** I am committed to pushing **daily updates and code commits** to this repository to continuously expand and refine this curriculum!
 > 
 > This course is proof that **relentless effort, deep curiosity, and high-quality skills matter far more than your college tag**. If you are ready to break out of the ordinary and put in the work, this roadmap is for you! 🚀
