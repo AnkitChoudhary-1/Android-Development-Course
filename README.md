@@ -134,8 +134,18 @@ Android-Development-Course/
 ├── README.md
 ├── Roadmap.png
 ├── phase-0-computer-engineer/
-│   ├── notes.md
-│   └── Computer Fundamentals.png
+│   ├── 01-cpu-ram-storage/
+│   │   ├── notes.md
+│   │   └── Computer Fundamentals.png
+│   ├── 02-process-thread/
+│   │   ├── notes.md
+│   │   └── process and threads.png
+│   ├── 03-main-background-thread/
+│   │   ├── notes.md
+│   │   └── main thread and background thread.png
+│   └── 04-networking/
+│       ├── notes.md
+│       └── networking.png
 └── ... (Upcoming Phases 1 to 15)
 ```
 
