@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 <p align="center">
-  <b>A zero-to-hero, deep-dive curriculum designed to master modern Android engineering and crack MAANG & top-tier product-based companies.</b>
+  <b>A real, deep-dive roadmap to master modern Android engineering from absolute first principles — built to take you from computer fundamentals to cracking MAANG & top tech companies.</b>
 </p>
 
 </div>
@@ -17,12 +17,11 @@
 
 ## 📌 Project Overview
 
-> [!IMPORTANT]
-> **🚀 Repository Inception Date: August 5, 2026**
-> 
-> This repository represents a complete, structured journey into low-level computer fundamentals, advanced Kotlin concurrency, Jetpack Compose, System Design, and Production Architecture—engineered specifically to help developers clear technical rounds at **MAANG (Meta, Apple, Amazon, Netflix, Google)** and leading tech organizations.
+Most tutorials teach you *what* code to type, but they rarely explain *why* things work the way they do. This repository is built differently. 
 
-Unlike superficial tutorials that only cover basic app building, this course delves into **how things work under the hood**: from memory layouts, CPU cycles, and garbage collection to reactive state management, custom UI layouts, dynamic feature modules, and scalable mobile system architecture.
+It is an open, structured learning journey designed to take you under the hood of Android development — starting from how CPUs, RAM, OS processes, and threads interact, all the way up to advanced Kotlin Coroutines, Jetpack Compose internals, production architecture, and mobile system design.
+
+Whether you are starting from scratch or aiming for top-tier product companies (MAANG), this course focuses on core fundamentals, real-world patterns, and clean engineering logic — no shortcuts, no surface-level copy-pasting.
 
 ---
 
