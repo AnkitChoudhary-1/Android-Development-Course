@@ -1,5 +1,7 @@
 # 🌐 Complete Guide to Networking, HTTP, and DNS for Android Developers
 
+![Networking](./networking.png)
+
 ---
 
 ## 🌐 Part 1: What is the Internet and How Does Data Travel?
