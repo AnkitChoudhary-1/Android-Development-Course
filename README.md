@@ -1,173 +1,130 @@
-# 🚀 Ultimate MAANG-Grade Android Development Course
+# Android Development Course
 
-<div align="center">
+**A zero-to-hero curriculum for mastering modern Android engineering — built to prepare developers for technical interviews at top product companies.**
 
-![Android Development Header](https://img.shields.io/badge/Android-Developer%20Roadmap-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Mastery-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![MAANG Ready](https://img.shields.io/badge/Target-MAANG%20%7C%20Tier--1-FF4500?style=for-the-badge&logo=target&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-<p align="center">
-  <b>A real, deep-dive roadmap to master modern Android engineering from absolute first principles — built to take you from computer fundamentals to cracking MAANG & top tech companies.</b>
-</p>
-
-</div>
+[![Android](https://img.shields.io/badge/Android-Roadmap-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AnkitChoudhary-1/Android-Development-Course)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Mastery-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/AnkitChoudhary-1/Android-Development-Course)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-FF4500?style=for-the-badge)](https://github.com/AnkitChoudhary-1/Android-Development-Course)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
 
 ---
 
-## 📌 Project Overview
+## Table of Contents
 
-Most tutorials teach you *what* code to type, but they rarely explain *why* things work the way they do. This repository is built differently. 
-
-It is an open, structured learning journey designed to take you under the hood of Android development — starting from how CPUs, RAM, OS processes, and threads interact, all the way up to advanced Kotlin Coroutines, Jetpack Compose internals, production architecture, and mobile system design.
-
-Whether you are starting from scratch or aiming for top-tier product companies (MAANG), this course focuses on core fundamentals, real-world patterns, and clean engineering logic — no shortcuts, no surface-level copy-pasting.
-
----
-
-## 💬 A Personal Note from the Author
-
-> [!NOTE]
-> **To every student from a Tier-3 college or non-IIT/NIT background:**
-> 
-> I know the exact feeling and pain of not getting into an **IIT** or **NIT**. When you are not from a premier institute, society often doubts your potential, and it's easy to feel left behind.
-> 
-> I am currently pursuing my **BCA from a Tier-3 government college**. But I realized early on that sticking strictly to the college syllabus will never be enough to achieve world-class engineering skills or crack top companies like **MAANG**. That is why I push myself to do **exceptionally extra things** beyond the college curriculum every single day—diving deep into computer science fundamentals, low-level architecture, production-grade Android engineering, and system design.
-> 
-> 🔥 **I am putting my EVERYTHING into making this repository the BEST Android Development resource on the entire internet.** 
-> 
-> * 🛑 **Zero Extra Resources Needed:** If you complete this curriculum with 100% honesty, consistency, and dedication, **you will not need any other roadmaps, books, or paid courses**. You will be fully prepared to crack almost **every Android Developer interview** (including MAANG & top product companies).
-> * ⏳ **Realistic Timeframe:** This is a comprehensive, deep-dive mastery journey that will take approximately **130 to 150 days** of active dedicated study.
-> * 📅 **Daily Dedication:** I am committed to pushing **daily updates and code commits** to this repository to continuously expand and refine this curriculum!
-> 
-> This course is proof that **relentless effort, deep curiosity, and high-quality skills matter far more than your college tag**. If you are ready to break out of the ordinary and put in the work, this roadmap is for you! 🚀
+- [Overview](#overview)
+- [Who This Course Is For](#who-this-course-is-for)
+- [Why This Course](#why-this-course)
+- [Roadmap](#roadmap)
+- [Repository Structure](#repository-structure)
+- [How to Use This Repo](#how-to-use-this-repo)
+- [Roadmap Diagram](#roadmap-diagram)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## 🎯 Why This Course? (The MAANG Benchmark)
+## Overview
 
-Top tech companies don't just test whether you can drag-and-drop buttons or make an API call. They evaluate:
+> **Started:** August 5, 2026
 
-- 🧠 **Low-Level Fundamentals:** CPU cache locality, RAM allocations, memory leaks, and thread safety.
-- ⚡ **Asynchronous Concurrency:** Kotlin Coroutines, Channels, StateFlow/SharedFlow, backpressure, and thread pool management.
-- 🏗️ **Clean System Architecture:** MVVM, MVI, Layered Clean Architecture, SOLID principles, and Dependency Injection (Hilt/Koin).
-- 🎨 **Modern Declarative UI:** Deep understanding of Jetpack Compose recomposition, layout phases, state hoisting, and custom modifiers.
-- 📱 **Mobile System Design:** Offline-first caching, real-time sync engines, media streaming, image caching algorithms, and SDK design.
+This repository is a structured, ground-up curriculum covering low-level computer fundamentals, advanced Kotlin concurrency, Jetpack Compose, system design, and production-grade Android architecture — built specifically to prepare developers for technical interviews at MAANG-level and other top product companies.
 
----
+Rather than stopping at "how to build an app," this course goes into **how things actually work under the hood**: memory layout, CPU cycles, garbage collection, reactive state management, custom UI internals, and scalable mobile architecture.
 
-## 🗺️ Complete Series Roadmap (Phase 0 to Phase 15)
+## Who This Course Is For
 
-This course follows a 16-phase roadmap matching [`Roadmap.png`](./Roadmap.png) designed to take you from absolute zero to a MAANG-level Android Engineer:
+This roadmap is built for:
 
-### 0️⃣ Phase 0: Become a Computer Engineer *(Current Phase)*
-* **Topics:** CPU, RAM, Storage | Process, Thread | Main Thread, Background Thread | Networking Basics (HTTP, DNS) | APIs, JSON | Git & GitHub | Linux Basics
-* **Goal:** Understand how computers and software systems work.
+- **Beginners** who want a structured, ground-up path into Android instead of scattered tutorials.
+- **Self-taught developers** looking to fill gaps in computer science fundamentals and low-level Android internals.
+- **Working developers** preparing for technical interviews at product-based companies, who need system design and architecture depth beyond day-to-day app work.
 
-### 1️⃣ Phase 1: Kotlin Mastery
-* **Topics:** Variables, Functions | Null Safety | Collections | OOP (Classes, Objects) | Interfaces, Inheritance | Data Classes, Sealed Classes | Lambdas, HOF, Scope Functions | Coroutines, Flow, Generics
-* **Goal:** Think in Kotlin. Write clean, idiomatic Kotlin code.
+**Prerequisites:** none beyond basic programming familiarity — Phase 0 assumes no prior computer science background and builds up from there.
 
-### 2️⃣ Phase 2: Android Foundations
-* **Topics:** How Android Works | Activity, Intent, Manifest | App Lifecycle (Why?) | Process & Thread in Android | How Android Launches Apps | How Android Kills Apps | Configuration Changes
-* **Goal:** Understand Android deeply, not just the surface.
+**Time commitment:** this is a deep, comprehensive course — expect roughly 1–1.5 years of consistent, active study to complete it end to end.
 
-### 3️⃣ Phase 3: Jetpack Compose
-* **Topics:** Composable Basics | Layouts & Modifiers | State (`remember`, `mutableStateOf`) | Side Effects | Lists (`LazyColumn`, `LazyRow`) | Gesture & Interaction | Animations | Performance in Compose
-* **Goal:** Build modern, beautiful and performant UI with Compose.
+**Maintenance:** new phases and notes are added regularly as the course develops.
 
-### 4️⃣ Phase 4: Real UI Engineering
-* **Topics:** Spotify Clone | WhatsApp Clone | Telegram Clone | Instagram Clone | Google Photos Clone | Phone, Gallery, Settings | Calculator, Chrome | Camera UI, Material 3 | Adaptive UI (Tablet, Foldables)
-* **Goal:** Build production-level apps with real-world UI.
+## Why This Course
 
-### 5️⃣ Phase 5: Architecture
-* **Topics:** Why MVVM exists | Repository Pattern | UseCases | Clean Architecture | Dependency Injection (Hilt) | State Management | Navigation (Compose & XML) | Modularization | Scalable App Structure
-* **Goal:** Write scalable, maintainable and testable apps.
+Top tech companies rarely test whether you can wire up a button and an API call. They evaluate:
 
-### 6️⃣ Phase 6: Data
-* **Topics:** Room Database | DataStore | Proto DataStore | SQL Basics | Caching Strategies | Offline-First Apps | Pagination | Sync Engine
-* **Goal:** Store, cache and manage data like a pro.
+| Area | What's Tested |
+|---|---|
+| **Low-level fundamentals** | CPU cache locality, memory allocation, leaks, thread safety |
+| **Async concurrency** | Kotlin Coroutines, Channels, StateFlow/SharedFlow, backpressure |
+| **System architecture** | MVVM, MVI, Clean Architecture, SOLID, Dependency Injection |
+| **Modern UI** | Jetpack Compose recomposition, layout phases, state hoisting, custom modifiers |
+| **Mobile system design** | Offline-first caching, real-time sync, media streaming, SDK design |
 
-### 7️⃣ Phase 7: Networking
-* **Topics:** HTTP / HTTPS | REST APIs | Retrofit & OkHttp | Serialization (Gson / Moshi) | Authentication (JWT, Tokens) | Refresh Tokens | Multipart (Upload Files) | Download Files | WebSockets
-* **Goal:** Build secure and robust networked apps.
+This course is structured around those exact evaluation areas.
 
-### 8️⃣ Phase 8: Coroutines & Flow
-* **Topics:** Suspending Functions | Dispatchers | Structured Concurrency | Coroutine Scope | Cancellation | Flow Fundamentals | StateFlow & SharedFlow | Channels
-* **Goal:** Handle async tasks and streams efficiently and safely.
+## Roadmap
 
-### 9️⃣ Phase 9: Performance
-* **Topics:** Memory Leaks | Compose Recomposition | Jank & Frame Rendering | CPU, GPU, Battery | Startup Optimization | Profilers (CPU, Memory, Network) | Macrobenchmark | Baseline Profiles
-* **Goal:** Build smooth, fast and battery-efficient apps.
+A 16-phase path from absolute fundamentals to interview-ready, matching [`Roadmap.png`](./Roadmap.png).
 
-### 🔟 Phase 10: Testing
-* **Topics:** Unit Testing | UI Testing | Integration Testing | Mocking (Mockito, MockK) | Fake Repository | Compose Testing | Test Driven Development (TDD)
-* **Goal:** Write reliable apps with high test coverage.
+| Phase | Title | Focus | Status |
+|---|---|---|---|
+| 0 | Become a Computer Engineer | CPU, RAM, storage, processes/threads, networking basics, Git, Linux | 🟢 In Progress |
+| 1 | Kotlin Mastery | Null safety, collections, OOP, sealed classes, coroutines, Flow, generics | ⚪ Planned |
+| 2 | Android Foundations | Activity/Intent/Manifest, app lifecycle, process management, config changes | ⚪ Planned |
+| 3 | Jetpack Compose | Composables, state, side effects, lists, gestures, animations, performance | ⚪ Planned |
+| 4 | Real UI Engineering | Clones of Spotify, WhatsApp, Telegram, Instagram, Google Photos, and more | ⚪ Planned |
+| 5 | Architecture | MVVM, Repository pattern, UseCases, Clean Architecture, Hilt, navigation | ⚪ Planned |
+| 6 | Data | Room, DataStore, SQL, caching strategies, offline-first, pagination | ⚪ Planned |
+| 7 | Networking | REST, Retrofit/OkHttp, serialization, auth/JWT, multipart, WebSockets | ⚪ Planned |
+| 8 | Coroutines & Flow | Suspending functions, dispatchers, structured concurrency, cancellation | ⚪ Planned |
+| 9 | Performance | Memory leaks, recomposition, jank, profilers, baseline profiles | ⚪ Planned |
+| 10 | Testing | Unit/UI/integration testing, mocking, TDD | ⚪ Planned |
+| 11 | Android Internals | Binder/IPC, AIDL, ART, DEX, APK, Gradle, R8, JNI | ⚪ Planned |
+| 12 | System Design (Android) | How WhatsApp, Spotify, Instagram, Maps, and notifications work at scale | ⚪ Planned |
+| 13 | Open Source | Reading code, forking, PRs, code review, commit hygiene | ⚪ Planned |
+| 14 | Professional Android | Play Store deployment, CI/CD, Fastlane, Crashlytics, release management | ⚪ Planned |
+| 15 | Interview Preparation | Android interview questions, LLD, machine coding, DSA, resume/GitHub prep | ⚪ Planned |
 
-### 1️⃣1️⃣ Phase 11: Android Internals
-* **Topics:** Binder & IPC | AIDL Basics | Package Manager | Activity Manager | Window Manager | Looper, Handler, Message Queue | Zygote, ART, DEX, APK | Gradle, Build System, R8 | JNI Basics
-* **Goal:** Understand how Android works under the hood.
+Each phase builds on the last — fundamentals first, then language mastery, then framework depth, then architecture and scale.
 
-### 1️⃣2️⃣ Phase 12: System Design (Android)
-* **Topics:** How WhatsApp Works | How Spotify Works | How Instagram Works | How Maps Work | How Notifications Work | How Offline Sync Works | Scalability, Caching, DB Design
-* **Goal:** Design apps that scale and handle real-world complexity.
+## Repository Structure
 
-### 1️⃣3️⃣ Phase 13: Open Source
-* **Topics:** How to Read Code | How to Contribute | Fork, Branch, PR | Code Reviews | Fixing Issues | Writing Good Commits | Community Etiquette
-* **Goal:** Contribute to open source and grow as a developer.
-
-### 1️⃣4️⃣ Phase 14: Professional Android
-* **Topics:** Play Store Deployment | CI/CD (GitHub Actions) | Fastlane | Crashlytics & Analytics | Firebase (Auth, FCM, etc.) | Release Management | Versioning | Privacy, Security
-* **Goal:** Become a professional Android developer.
-
-### 1️⃣5️⃣ Phase 15: Interview Preparation
-* **Topics:** Android Interview Questions | LLD (Low Level Design) | Machine Coding | Behavioral Interviews | Android Internals | DSA (Arrays, Trees, Graphs, DP, etc.) | Resume, GitHub, LinkedIn | Referrals & Applying
-* **Goal:** Crack MAANG-level Android interviews with confidence.
-
----
-
-## 📁 Repository Structure
-
-```text
+```
 Android-Development-Course/
 ├── README.md
 ├── Roadmap.png
 ├── phase-0-computer-engineer/
-│   ├── 01-cpu-ram-storage/
-│   │   ├── notes.md
-│   │   └── Computer Fundamentals.png
-│   ├── 02-process-thread/
-│   │   ├── notes.md
-│   │   └── process and threads.png
-│   ├── 03-main-background-thread/
-│   │   ├── notes.md
-│   │   └── main thread and background thread.png
-│   └── 04-networking/
-│       ├── notes.md
-│       └── networking.png
-└── ... (Upcoming Phases 1 to 15)
+│   ├── notes.md
+│   └── Computer Fundamentals.png
+└── ...                          # phases 1–15, added as the course progresses
 ```
 
----
+Each phase folder contains topic notes and supporting diagrams for that stage of the roadmap.
 
-## 🖼️ Complete Course Roadmap Diagram
+## How to Use This Repo
 
-Below is the visual roadmap mapping out the complete learning path from fundamentals to MAANG readiness:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AnkitChoudhary-1/Android-Development-Course.git
+   ```
+2. **Start at Phase 0** — even if you already know some Android, the fundamentals phases fill in the gaps most tutorials skip.
+3. **Work through each phase in order.** The curriculum is cumulative — later phases assume the concepts from earlier ones.
+4. **Star ⭐ the repo** to keep track of new phases as they're published.
 
-<div align="center">
+## Roadmap Diagram
 
 ![Android Development Roadmap](./Roadmap.png)
 
-</div>
+## Contributing
+
+This is primarily a personal learning-in-public project, but feedback, corrections, and suggestions are welcome:
+
+- Found an error or outdated info? Open an [issue](https://github.com/AnkitChoudhary-1/Android-Development-Course/issues).
+- Have a suggestion for a topic or resource? Issues and discussions are the best place to raise it.
+
+## License
+
+Licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
+<p align="center">Made for aspiring Android engineers. Star ⭐ this repository to follow along.</p>
 
-**Made with ❤️ for aspiring Android Engineers. Star ⭐ this repository to follow along the journey!**
-
-<br>
-
-<sub>🎨 *Note: The visual guide diagrams & infographic images in this repository were created with ChatGPT.*</sub>
-
-</div>
+<p align="center"><sub>Diagrams and infographics in this repository were created with ChatGPT.</sub></p>
