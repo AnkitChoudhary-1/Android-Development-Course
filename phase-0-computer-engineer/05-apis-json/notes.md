@@ -1,5 +1,7 @@
 # 🔌 Complete Guide to APIs and JSON for Android Developers
 
+![APIs and JSON](./apis.png)
+
 ---
 
 ## 🍽️ Part 1: What is an API?
