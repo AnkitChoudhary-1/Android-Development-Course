@@ -1,5 +1,7 @@
 # 🐙 Complete Guide to Git and GitHub for Android Developers
 
+![Git and GitHub](./git%20github.png)
+
 ---
 
 ## ⏳ Part 1: What is Version Control and Why You Need It
