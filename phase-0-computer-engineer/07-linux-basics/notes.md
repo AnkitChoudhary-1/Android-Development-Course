@@ -1,5 +1,7 @@
 # 🐧 Complete Guide to Linux Command Line for Android Developers
 
+![Linux Command Line](./linux.png)
+
 ---
 
 ## 🐧 Part 1: What is Linux and Why Developers Use It
