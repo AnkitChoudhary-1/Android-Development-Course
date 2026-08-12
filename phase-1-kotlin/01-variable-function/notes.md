@@ -1,5 +1,7 @@
 # 🚀 Complete Guide to Variables and Functions in Kotlin
 
+![Variables and Functions](./var%20and%20fun.png)
+
 ---
 
 ## 📦 SECTION 1: VARIABLES
