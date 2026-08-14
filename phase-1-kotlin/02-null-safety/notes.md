@@ -1,5 +1,7 @@
 # 🛡️ Complete Guide to Null Safety in Kotlin
 
+![Null Safety](./nulsafety.png)
+
 ---
 
 ## 🚫 Part 1: What is Null and Why is it Dangerous?
