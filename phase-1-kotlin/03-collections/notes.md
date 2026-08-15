@@ -1,5 +1,7 @@
 # 📚 Complete Guide to Collections in Kotlin
 
+![Kotlin Collections](./collection.png)
+
 ---
 
 ## ❓ What Are Collections and Why Do They Matter?
