@@ -1,5 +1,7 @@
 # 🏗️ Complete Guide to OOP, Classes, and Objects in Kotlin
 
+![OOP Classes & Objects](./oop-classes.png)
+
 ---
 
 ## ❓ Part 1: What is a Class? What is an Object?
