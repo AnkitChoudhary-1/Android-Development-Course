@@ -1,5 +1,7 @@
 # 🏛️ Complete Guide to Interfaces and Inheritance in Kotlin
 
+![Interfaces & Inheritance](./Interfaces%20&%20Inheritance.png)
+
 ---
 
 ## ❓ Part 1: What is Inheritance and Why Does It Exist?
