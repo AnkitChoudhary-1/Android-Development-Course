@@ -1,5 +1,7 @@
 # 🗃️ Complete Guide to Data Classes and Sealed Classes in Kotlin
 
+![Data and Sealed Classes](./data%20and%20sealed%20classes.png)
+
 ---
 
 ## ❓ Part 1: What is a Data Class and Why Does It Exist?
