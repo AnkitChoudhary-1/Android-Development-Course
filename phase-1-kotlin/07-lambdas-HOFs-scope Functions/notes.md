@@ -1,5 +1,7 @@
 # 🔗 Complete Guide to Lambdas, Higher Order Functions, and Scope Functions
 
+![Lambda HOF Scope Functions](./lambda%20hof%20scope%20functions.png)
+
 ---
 
 ## ❓ Part 1: What is a Lambda?
