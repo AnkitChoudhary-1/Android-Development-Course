@@ -1,5 +1,7 @@
 # 🧬 Complete Guide to Generics, Coroutines & Flow
 
+![Generics Coroutines and Flow](./generics%20coroutines%20and%20flow.png)
+
 > **Your Roadmap:** Right now you're building conceptual understanding. In Phase 8, you'll master advanced coroutine patterns, structured concurrency, exception handling, Flow operators, StateFlow, SharedFlow, channels, and real-world architecture patterns. For now — understand the **"what"** and **"why"**.
 
 ---
