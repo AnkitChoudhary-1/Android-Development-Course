@@ -1,5 +1,7 @@
 # 📱 How Android Works Under the Hood — Complete Guide
 
+![How Android Works](./how%20android%20works.png)
+
 ---
 
 ## 🤖 Part 1: What is the Android Operating System?
