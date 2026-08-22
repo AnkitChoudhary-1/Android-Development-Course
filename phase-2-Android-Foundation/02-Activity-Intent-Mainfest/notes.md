@@ -1,5 +1,7 @@
 # 🚀 Complete Guide to Activity, Intent, and AndroidManifest.xml
 
+![Activity Intent Manifest](./activity%20intent%20mainfest.png)
+
 ---
 
 ## 📱 Part 1: What is an Activity?
