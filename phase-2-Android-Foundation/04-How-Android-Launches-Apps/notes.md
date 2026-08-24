@@ -1,5 +1,7 @@
 # 🚀 How Android Launches an App — Complete Step-by-Step Guide
 
+![How Android Launches Apps](./how%20android%20launches%20apps.png)
+
 ---
 
 ## 👆 Part 1: What Happens the Exact Moment You Tap an App Icon
