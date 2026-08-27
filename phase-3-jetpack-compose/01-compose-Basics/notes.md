@@ -1,5 +1,7 @@
 # 🎨 Complete Guide to Jetpack Compose Basics
 
+![Jetpack Compose Basics](./composeBasic.png)
+
 ---
 
 ## 📜 Part 1: What is Jetpack Compose and Why the Shift from XML?
