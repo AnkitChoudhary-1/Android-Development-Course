@@ -1,5 +1,7 @@
 # 📐 Complete Guide to Layouts and Modifiers in Jetpack Compose
 
+![Layouts and Modifiers](./layout%20and%20modifiers.png)
+
 ---
 
 ## ⬇️ Part 1: Column and Row in Depth
