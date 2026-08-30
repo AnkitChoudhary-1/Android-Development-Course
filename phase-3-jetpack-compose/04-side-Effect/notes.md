@@ -1,5 +1,7 @@
 # ⚡ Side Effects in Jetpack Compose — Complete Beginner Guide
 
+![Side Effects](./side-effect.png)
+
 ---
 
 ## 📋 Prerequisites
