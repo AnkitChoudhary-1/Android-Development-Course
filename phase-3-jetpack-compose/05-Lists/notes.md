@@ -1,5 +1,7 @@
 # 📜 LazyColumn & LazyRow in Jetpack Compose — Complete Beginner Guide
 
+![Lazy Lists](./lists.png)
+
 ---
 
 ## 📋 Prerequisites
