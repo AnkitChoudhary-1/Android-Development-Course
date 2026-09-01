@@ -1,5 +1,7 @@
 # 👆 Gestures & Interaction in Jetpack Compose — Complete Beginner Guide
 
+![Gestures and Interaction](./gesture%20interaction.png)
+
 ---
 
 ## 📋 Prerequisites
