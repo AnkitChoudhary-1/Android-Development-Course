@@ -66,10 +66,10 @@ A 16-phase path from absolute fundamentals to interview-ready, matching [`Roadma
 | Phase | Title | Focus | Status |
 |---|---|---|---|
 | 0 | Become a Computer Engineer | CPU, RAM, storage, processes/threads, networking basics, Git, Linux | ✅ Completed |
-| 1 | Kotlin Mastery | Null safety, collections, OOP, sealed classes, coroutines, Flow, generics | 🟢 In Progress |
-| 2 | Android Foundations | Activity/Intent/Manifest, app lifecycle, process management, config changes | ⚪ Planned |
-| 3 | Jetpack Compose | Composables, state, side effects, lists, gestures, animations, performance | ⚪ Planned |
-| 4 | Real UI Engineering | Clones of Spotify, WhatsApp, Telegram, Instagram, Google Photos, and more | ⚪ Planned |
+| 1 | Kotlin Mastery | Null safety, collections, OOP, sealed classes, coroutines, Flow, generics | ✅ Completed |
+| 2 | Android Foundations | Activity/Intent/Manifest, app lifecycle, process management, config changes | ✅ Completed |
+| 3 | Jetpack Compose | Composables, state, side effects, lists, gestures, animations, performance | ✅ Completed |
+| 4 | Real UI Engineering | Clones of Spotify, WhatsApp, Telegram, Instagram, Google Photos, and more | 🟢 In Progress |
 | 5 | Architecture | MVVM, Repository pattern, UseCases, Clean Architecture, Hilt, navigation | ⚪ Planned |
 | 6 | Data | Room, DataStore, SQL, caching strategies, offline-first, pagination | ⚪ Planned |
 | 7 | Networking | REST, Retrofit/OkHttp, serialization, auth/JWT, multipart, WebSockets | ⚪ Planned |
