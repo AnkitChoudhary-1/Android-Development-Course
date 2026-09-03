@@ -1,5 +1,7 @@
 # ⚡ Compose Performance Basics — Foundational Awareness Guide
 
+![Performance](./performance.png)
+
 ---
 
 ## 📋 Prerequisites
