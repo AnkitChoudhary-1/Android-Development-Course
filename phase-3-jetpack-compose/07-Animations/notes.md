@@ -1,5 +1,7 @@
 # ✨ Animations in Jetpack Compose — Complete Beginner Guide
 
+![Animations](./Animation.png)
+
 ---
 
 ## 📋 Prerequisites
