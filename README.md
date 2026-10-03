@@ -70,7 +70,7 @@ A 16-phase path from absolute fundamentals to interview-ready, matching [`Roadma
 | 2 | Android Foundations | Activity/Intent/Manifest, app lifecycle, process management, config changes | ✅ Completed |
 | 3 | Jetpack Compose | Composables, state, side effects, lists, gestures, animations, performance | ✅ Completed |
 | 4 | Real UI Engineering | Clones of Spotify, WhatsApp, Telegram, Instagram, Google Photos, and more | 🟢 In Progress |
-| 5 | Architecture | MVVM, Repository pattern, UseCases, Clean Architecture, Hilt, navigation | ⚪ Planned |
+| 5 | [Architecture](./phase-5-Architecture/01-Why-MVVM-Exists/notes.md) | MVVM, Repository pattern, UseCases, Clean Architecture, Hilt, navigation | 🟢 In Progress |
 | 6 | Data | Room, DataStore, SQL, caching strategies, offline-first, pagination | ⚪ Planned |
 | 7 | Networking | REST, Retrofit/OkHttp, serialization, auth/JWT, multipart, WebSockets | ⚪ Planned |
 | 8 | Coroutines & Flow | Suspending functions, dispatchers, structured concurrency, cancellation | ⚪ Planned |
